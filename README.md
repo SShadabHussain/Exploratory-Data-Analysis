@@ -28,4 +28,11 @@ The script then prints the first few rows of the data using the pandas head() fu
 
 The script then calculates the percentage of missing values and other features for analysis are taken in consideration.
 
-![Alt text](<ScreenShot/Missing Values Percentage.png>) ![Alt text](ScreenShot/BoxPlot.png) ![Alt text](<ScreenShot/HeatMap Absolute.png>) ![Alt text](ScreenShot/HeatMap.png) ![Alt text](ScreenShot/Histogram.png) ![Alt text](ScreenShot/PairPlot-2.png) ![Alt text](ScreenShot/PairPlot.png) ![Alt text](<ScreenShot/Stacked Histogram.png>) ![Alt text](ScreenShot/Sweetviz.jpeg) ![Alt text](ScreenShot/ydata_profiling_first_5.jpeg) ![Alt text](ScreenShot/ydata_profiling_full.jpeg)
+## Screenshots
+![Stacked Histogram](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/6d34fe05-daa6-48db-bfc6-4559ed5dfd5c)
+![PairPlot-2](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/689c874f-4953-4e66-8f79-9f01ef3d28db)
+![PairPlot](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/d7c3a92c-9112-40be-8f6c-d41b7cad801d)
+![Missing Values Percentage](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/a7f6eb10-1fea-4176-bc7d-30bbd0432c56)
+![Histogram](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/b7b171e4-71b9-471d-9aa0-50dc0c8b77dd)
+![HeatMap](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/4086f877-a18f-4eba-b3a6-b01939deea95)
+![HeatMap Absolute](https://github.com/SShadabHussain/Exploratory-Data-Analysis/assets/93070562/24bf8694-5dbf-432d-8612-b6fb734e1ed8)
